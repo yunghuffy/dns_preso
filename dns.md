@@ -179,7 +179,7 @@ in the registrar's DNS.
 
 #### Register your NS
 
-![alt text](images/customns.png "Just click these boxen")
+![alt text](images/custom_ns.png "Just click these boxen")
 
 
 ### New Glue
